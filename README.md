@@ -1,2 +1,10 @@
-# case-20-11
-Interactive detective investigation web game ("Case 20/11 — The Missing Letter") for World Children's Day, featuring clues, suspect interrogation, timeline analysis, scratch reveal, and printable report &amp; certificate
+<div dir="rtl" align="center">
+
+<h1>القضية 20/11 — الرسالة التي اختفت</h1>
+<p>لعبة تحقيق تفاعلية لفعالية يوم الطفل العالمي، تعتمد على تحليل الأدلة وكشف اللغز، وتنتهي بتقرير وشهادة مشاركة جاهزة للطباعة.</p>
+
+<p>
+  <a href="https://m23xp.github.io/case-20-11/"><strong>جرّب اللعبة مباشرة ←</strong></a>
+</p>
+
+</div>
